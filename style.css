@@ -1,0 +1,80 @@
+
+ h1{
+    margin-top: 10%;
+      color: black;
+      background-color: ghostwhite;
+      font-style: italic;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      text-shadow: 2px 2px 2px #fff; 
+   }
+
+  input[type="file"] {
+    display: block;
+    margin: 10px auto;
+  }
+  input{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 1em;
+    color: burlywood
+}
+.myfile{
+  border-style: hidden ;
+}
+.choose{
+  background-color: darkgrey;
+  color: #fff;
+  padding: 10px 20px;
+}
+  .result {
+    margin: 20px;
+    border: 1px solid #ccc;
+    background-color: aliceblue;
+    text-shadow: 2px 2px 2px  darkgray;
+    padding: 10px;
+  }
+  body{
+    background-color: gainsboro;
+    border-style: outset ;
+    border-color: black;
+    padding: 25px
+}
+.convert{
+    padding: 10px 20px;
+    background-color: darkgrey;
+    color: #fff;
+    box-shadow: 0 0 5px darkgray;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+}
+.convert:hover{
+    background-color: rgb(128, 128, 128);
+}
+.download-button{
+  padding: 10px 20px;
+  background-color: darkgrey;
+  color: #fff;
+  box-shadow: 0 0 5px darkgray;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+.download-button:hover{
+  background-color: rgb(128, 128, 128);
+}
+input{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 1em;
+    color: burlywood
+}
